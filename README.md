@@ -1,2 +1,3 @@
-# MV_Plugins
-Plugins made for RPG Maker MV by Navash
+# MV Plugins
+
+Javascript Plugins made for RPG Maker MV by Navash
